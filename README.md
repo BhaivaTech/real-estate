@@ -25,3 +25,7 @@ Open `http://127.0.0.1:8080/index.html`.
 Replace preview listings, images, canonical URLs, sitemap URLs, form handling, contact details, legal copy, and noindex directives with client-approved production values. Confirm the property subdomain and connect Search Console for the parent domain and subdomain.
 
 # real-easte
+
+## Deployment
+
+Pushes to `main` deploy this site via GitHub Actions (FTP) to homes.bhaivatech.com.
